@@ -1,6 +1,8 @@
 # Dataset README
 
-All data is released under [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license, except online courses, which are released under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license. To prevent potential leakage of the gold answers and as the original course names are not critical to the analyses, we have anonymized the course names to prioritize privacy and data integrity.
+All data is released under [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license, except online courses, which are released under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license. 
+
+To prevent potential leakage of the gold answers and as the original course names are not critical to the analyses, we have anonymized the course names to prioritize privacy and data integrity.
 
 Here are the files provided for the dataset:
 
