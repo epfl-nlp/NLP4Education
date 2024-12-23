@@ -1,0 +1,380 @@
+[
+    {
+        "course_id": 10,
+        "course_name": "Physics course* #2",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 9,
+        "course_name": "CS course* #12",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 5,
+        "course_name": "CS course* #14",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 4,
+        "course_name": "CS course #13",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 3,
+        "course_name": "Physics course* #1",
+        "course_program": "Physics",
+        "course_language": "English",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 0,
+        "course_name": "CS course* #15",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15122,
+        "course_name": "Biology course* #1",
+        "course_program": "Life Sciences Engineering",
+        "course_language": "French",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15001,
+        "course_name": "Chemistry course* #1",
+        "course_program": "Chemistry and Chemical Engineering",
+        "course_language": "French",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15010,
+        "course_name": "CS course* #5",
+        "course_program": "Computer Science",
+        "course_language": "French",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15006,
+        "course_name": "CS course* #4",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15041,
+        "course_name": "CS course #11",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15000,
+        "course_name": "CS course* #1",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15103,
+        "course_name": "CS course* #7",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15005,
+        "course_name": "CS course #16",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15008,
+        "course_name": "Data Science course* #1",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15125,
+        "course_name": "CS course #8",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15002,
+        "course_name": "CS course #2",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15127,
+        "course_name": "CS course* #10",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15011,
+        "course_name": "CS course* #6",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15003,
+        "course_name": "CS course* #3",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15126,
+        "course_name": "CS course* #9",
+        "course_program": "Computer Science",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15104,
+        "course_name": "Data Science course #2",
+        "course_program": "Electrical and Electronics Engineering",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15007,
+        "course_name": "Math course* #1",
+        "course_program": "Mathematics",
+        "course_language": "French",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15009,
+        "course_name": "Math course* #2",
+        "course_program": "Mathematics",
+        "course_language": "French",
+        "course_year": "bachelor"
+    },
+    {
+        "course_id": 15123,
+        "course_name": "Physics course* #8",
+        "course_program": "Physics",
+        "course_language": "English",
+        "course_year": "master"
+    },
+    {
+        "course_id": 15052,
+        "course_name": "Online  Life Sciences course #3",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15100,
+        "course_name": "Online  Life Sciences course #7",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15080,
+        "course_name": "Online  Life Sciences course #8",
+        "course_program": null,
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15047,
+        "course_name": "Online  Physics course #8",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15043,
+        "course_name": "Online  Life Sciences course #1",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15081,
+        "course_name": "Online  Life Sciences course #6",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15046,
+        "course_name": "Online  Life Sciences course #2",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15053,
+        "course_name": "Physics course #3",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15058,
+        "course_name": "Online  Life Sciences course #4",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15076,
+        "course_name": "Online  Life Sciences course #5",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15064,
+        "course_name": "Physics course #4",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15097,
+        "course_name": "Online  Physics course #10",
+        "course_program": null,
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15016,
+        "course_name": "Online  Physics course #2",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15013,
+        "course_name": "Online  Physics course #1",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15033,
+        "course_name": "Online  Physics course #5",
+        "course_program": null,
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15118,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15106,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15113,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15114,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15109,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15111,
+        "course_name": "Physics course* #6",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15107,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15117,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15116,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15108,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15105,
+        "course_name": "Physics course* #9",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15112,
+        "course_name": "Physics course* #7",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15115,
+        "course_name": "Physics course* #5",
+        "course_program": "Physics",
+        "course_language": "English",
+        "course_year": "online"
+    },
+    {
+        "course_id": 15110,
+        "course_name": "Physics course* #5",
+        "course_program": "Physics",
+        "course_language": "French",
+        "course_year": "online"
+    }
+]
