@@ -4,7 +4,7 @@
 
 This repository provides the dataset and code used in the study.
 
-**Note:** The data is released under CC-BY-NC-ND license. The code is released under CC-BY license.
+**Note:** The data is released under [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license. The code is released under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
 
 
 ## Citation
