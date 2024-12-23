@@ -1,4 +1,6 @@
-# README
+# Dataset README
+
+All data is released under [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license, except online courses, which are released under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license. 
 
 Here are the files provided for the dataset:
 
