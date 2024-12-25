@@ -33,7 +33,6 @@ This repository provides the dataset and source code used in the study: "[Could 
 - The code is released under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.  
 
 ## Citation
-If you use this code for your research, please cite our paper:
 
 ``` bib
 @article{doi:10.1073/pnas.2414955121,
