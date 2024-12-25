@@ -20,9 +20,3 @@ This folder contains the source code for implementing the six prompting strategi
     ├── grading/
         ├── grade_open_answer.py.py  # Direct grading of open-ended questions
         └── README.md # Documentation
-
-
-    
-   
-
-
