@@ -3,10 +3,8 @@
 [![License: CC-BY](https://img.shields.io/badge/License-CC--BY-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
-This folder contains the source code for six different prompting strategies used in this study.
-
-There is a sub-folder for each promting strategy and a readme file is included for more guidance.
-
+This folder contains the source code for implementing the six prompting strategies evaluated in this study. Each sub-folder is dedicated to a specific prompting strategy, accompanied by a detailed `README.md` for further guidance.
+## Directory Structure
 
 ```plaintext
     src/
@@ -22,6 +20,8 @@ There is a sub-folder for each promting strategy and a readme file is included f
     ├── grading/
         ├── grade_open_answer.py.py  # Direct grading of open-ended questions
         └── README.md # Documentation
+
+
     
    
 

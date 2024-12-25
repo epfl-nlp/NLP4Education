@@ -9,12 +9,13 @@ This repository provides the dataset and source code used in the study: "[Could 
     - `questions.json`: Contains all the questions (and their answers) used in this study.
     - `course.json`: Provides information about the courses analyzed in this work.
     - `grade_per_question.csv`: Contains models' grades (`gpt-3.5-turbo` and `gpt-4`) for all questions across six different prompting strategies.
+    - `README.md`: Readme file for more details on the data format.
 - The source code is located in the `src` folder. Each subfolder contains dedicated README files for further details. Key components include:
 
     ```plaintext
     src/
     │
-    ├── answer_generation/
+    ├── answer_generation/    # Source code for different prompting strategies
     │   ├── chain_of_thought/       # Chain-of-Thought (CoT) Prompting
     │   ├── expert_prompting/      # Expert Prompting
     │   └── few_shot_prompting/     # Few-shot Prompting

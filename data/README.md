@@ -1,6 +1,7 @@
 # Dataset README
 
 [![License: CC BY-NC-ND](https://img.shields.io/badge/License-CC%20BY--NC--ND-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: CC-BY](https://img.shields.io/badge/License-CC--BY-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 All data is released under [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) license, except online courses, which are released under [CC-BY](https://creativecommons.org/licenses/by/4.0/) license. 
 
