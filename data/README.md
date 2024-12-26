@@ -30,7 +30,7 @@ Here are the files provided for the dataset:
     - `question_difficulty`: (optional) difficulty of the question
     - `blooms_rating`: (optional) blooms category of the question
 
->> You can gather all models answers together by doing `python gather_answers.py`
+> **Note:** You can gather all models answers together by doing `python gather_answers.py`
 - `model_answers.json` which has the answer for each prompt and model pair for every question in `questions.json` **NOTE: SELF-REFINE AND EXPERT PROMPTING HAVE BEEN REMOVED FOR ANONYMITY PURPOSES, BUT THE GRADES FOR THESE PROMPTING STRATEGIES HAVE BEEN PROVIDED IN THE NEXT CSV FILE**
     - `question_id`: the unique question ID
     - `model_name`: the prompted model -- can be ['gpt-4', 'gpt-3.5-turbo']
