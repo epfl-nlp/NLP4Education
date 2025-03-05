@@ -4,7 +4,7 @@
 [![License: CC BY-NC-ND](https://img.shields.io/badge/License-CC%20BY--NC--ND-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![License: CC-BY](https://img.shields.io/badge/License-CC--BY-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository provides the dataset and source code used in the study: "[Could ChatGPT get an Engineering Degree? Evaluating Higher Education Vulnerability to AI Assistants.](https://www.pnas.org/doi/10.1073/pnas.24149551212)" [PNAS 2024]
+This repository provides the dataset and source code used in the study: "[Could ChatGPT get an Engineering Degree? Evaluating Higher Education Vulnerability to AI Assistants.](https://www.pnas.org/doi/10.1073/pnas.2414955121)" [PNAS 2024]
 - The dataset is located in the `data` folder and includes:
     - `questions.json`: Contains all the questions (and their answers) used in this study.
     - `course.json`: Provides information about the courses analyzed in this work.
